@@ -1,0 +1,14 @@
+{
+  "Usuarios": [
+    { "id": 1, "usario": "Post 1", "Contraseña": 120788},
+    { "id": 2, "usario": "Post 2", "Contraseña": 36548},
+    { "id": 3, "usario": "Post 3", "Contraseña": 94885}
+  ],
+  "Opciones": [
+    { "id": 1, "comida": "some comment", "tecnologia": 1 },
+    { "id": 2, "comida": "some comment", "vestimenta": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
