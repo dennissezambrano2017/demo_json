@@ -6,7 +6,7 @@
   ],
   "Opciones": [
     { "id": 1, "comida": "some comment", "tecnologia": 1 },
-    { "id": 2, "comida": "some comment", "vestimenta": 1 }
+    { "id": 2, "comida": "some comment", "vestimenta": "vestido" }
   ],
   "profile": {
     "name": "typicode"
