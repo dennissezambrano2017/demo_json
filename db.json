@@ -1,8 +1,20 @@
 {
   "Usuarios": [
-    { "id": 1, "usario": "PaoPao", "Contraseña": 120788},
-    { "id": 2, "usario": "Zambie", "Contraseña": 36548},
-    { "id": 3, "usario": "dzambranom9", "Contraseña": 94885}
+    { 
+      "id": 1, 
+      "usario": "PaoPao", 
+      "Contraseña": 120788
+    },
+    { 
+      "id": 2, 
+      "usario": "Zambie", 
+      "Contraseña": 36548
+    },
+    { 
+      "id": 3, 
+      "usario": "dzambranom9", 
+      "Contraseña": 94885
+    }
   ],
   "profile": {
     "name": "typicode"
