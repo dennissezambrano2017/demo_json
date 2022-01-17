@@ -20,18 +20,21 @@
     {
       "id": 1,
       "Name": "Paola",
-      "Apellido": "Zambrano"
+      "Apellido": "Zambrano",
+      "img": "https://e7.pngegg.com/pngimages/433/699/png-clipart-delta-computers-rentals-computer-icons-user-icon-entrepreneurship-head-desktop-wallpaper.png"
       
     },
     {
       "id": 2,
       "Name": "Diana",
-      "Apellido": "Aviles"
+      "Apellido": "Aviles",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png"
     },
     {
       "id": 3,
       "Name": "Maria",
-      "Apellido": "Cedeño"
+      "Apellido": "Cedeño",
+      "img": "https://www.nicepng.com/png/detail/947-9472554_cara-mujer-bio-oil-uses-for-face.png"
     }
   ],
   "profile": {
