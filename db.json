@@ -6,7 +6,19 @@
       "Contraseña": 120788,
       "Name": "Paola",
       "Apellido": "Zambrano",
-      "img": "https://e7.pngegg.com/pngimages/433/699/png-clipart-delta-computers-rentals-computer-icons-user-icon-entrepreneurship-head-desktop-wallpaper.png"
+      "role": "U",
+      "img": "https://e7.pngegg.com/pngimages/433/699/png-clipart-delta-computers-rentals-computer-icons-user-icon-entrepreneurship-head-desktop-wallpaper.png",
+      "items": [
+        {
+          "name": "Perfil"
+        },
+        {
+          "name": "Notificación"
+        },
+        {
+          "name": "Favoritos"
+        }
+      ]
     },
     { 
       "id": 2, 
@@ -14,7 +26,16 @@
       "Contraseña": 36548,
       "Name": "Diana",
       "Apellido": "Aviles",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png"
+      "role": "A",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png",
+      "items": [
+        {
+          "name": "Gestionar Usarios"
+        },
+        {
+          "name": "Reportes"
+        }
+      ]
     },
     { 
       "id": 3, 
@@ -23,7 +44,19 @@
       "id": 3,
       "Name": "Maria",
       "Apellido": "Cedeño",
-      "img": "https://www.nicepng.com/png/detail/947-9472554_cara-mujer-bio-oil-uses-for-face.png"
+      "role": "U",
+      "img": "https://www.nicepng.com/png/detail/947-9472554_cara-mujer-bio-oil-uses-for-face.png",
+      "items": [
+        {
+          "name": "Perfil"
+        },
+        {
+          "name": "Notificación"
+        },
+        {
+          "name": "Favoritos"
+        }
+      ]
     }
   ],
   "profile": {
