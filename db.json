@@ -3,34 +3,23 @@
     { 
       "id": 1, 
       "usario": "PaoPao", 
-      "Contraseña": 120788
+      "Contraseña": 120788,
+      "Name": "Paola",
+      "Apellido": "Zambrano",
+      "img": "https://e7.pngegg.com/pngimages/433/699/png-clipart-delta-computers-rentals-computer-icons-user-icon-entrepreneurship-head-desktop-wallpaper.png"
     },
     { 
       "id": 2, 
       "usario": "Zambie", 
-      "Contraseña": 36548
-    },
-    { 
-      "id": 3, 
-      "usario": "dzambranom9", 
-      "Contraseña": 94885
-    }
-  ],
-  "Perfiles": [
-    {
-      "id": 1,
-      "Name": "Paola",
-      "Apellido": "Zambrano",
-      "img": "https://e7.pngegg.com/pngimages/433/699/png-clipart-delta-computers-rentals-computer-icons-user-icon-entrepreneurship-head-desktop-wallpaper.png"
-      
-    },
-    {
-      "id": 2,
+      "Contraseña": 36548,
       "Name": "Diana",
       "Apellido": "Aviles",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/800px-User_icon_2.svg.png"
     },
-    {
+    { 
+      "id": 3, 
+      "usario": "dzambranom9", 
+      "Contraseña": 94885,
       "id": 3,
       "Name": "Maria",
       "Apellido": "Cedeño",
