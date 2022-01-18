@@ -1,0 +1,25 @@
+
+  "Fichero" : [
+    { 
+      "id" : 1 ,
+      "Descripcion": "TRABAJO AUTONOMO",
+      "Fecha": "17/01/2022",
+      "url": "https://sga.uteq.edu.ec/media/actividad/2022/01/17/archivo_2022117145243.pdf"
+    },
+    { 
+      "id" : 2 ,
+      "Descripcion": "GESTION DE AULA UNIT 13-14",
+      "Fecha": "30/11/2021",
+      "url": "https://sga.uteq.edu.ec/media/actividad/2021/11/30/archivo_20211130193732.pdf"
+    },
+    { 
+      "id" : 3 ,
+      "Descripcion": "TRABAJO AUTONOMO UNIT 13-14",
+      "Fecha": "17/01/2022",
+      "url": "https://sga.uteq.edu.ec/media/actividad/2022/01/17/archivo_2022117184542.pdf"
+    }
+  ],
+"profile": {
+    "name": "typicode"
+  }
+}
