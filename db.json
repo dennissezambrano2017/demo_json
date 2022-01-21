@@ -68,13 +68,13 @@
     },
     { 
       "id" : 2 ,
-      "Descripcion": "Plantilla Básica para la Elaboración de la Documentación de Proyectos de Ingeniería Informática",
+      "Descripcion": "Plantilla Básica para la documentacion de Proyectos de Ingeniería Informática",
       "Fecha": "30/11/2021",
       "url": "https://www.inf.upv.es/www/etsinf/wp-content/uploads/2018/05/plantillaNorma.pdf"
     },
     { 
       "id" : 3 ,
-      "Descripcion": "METODOLOGÍA DE DESARROLLO DE SOFTWARE",
+      "Descripcion": "Metodologia de desarrollo de software",
       "Fecha": "17/01/2022",
       "url": "http://informatica.uv.es/iiguia/TP/teoria/tema1.pdf"
     }
