@@ -85,67 +85,50 @@
 		"direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
 		"authority": "Ing. Mariela Susana Andrade Arias, PhD.",
 		"contact": "facultadce@uteq.edu.ec",
-		"logo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg",
-		"url": "https://www.uteq.edu.ec/6",
-		"lat":-1.0121740313099747,
-		"lng": -79.47007644954464
+		"logo": "https://i.ibb.co/FKWBV40/FCE.jpg",
+		"lat": -1.012183,
+		"lng": -79.470149
 	},
 	{
 		"Name": "Facultad de Ciencias de la Ingeniería",
 		"direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
 		"authority": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
 		"contact": "facultadci@uteq.edu.ec",
-		"logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
-		"url": "https://www.uteq.edu.ec/about/3",
-		"lat": -1.0125772416600838,
-		"lng": -79.47043092589146
+		"logo": "https://i.ibb.co/BcZzynp/FCI.jpg",
+		"lat": -1.012593,
+		"lng": -79.470398
 	},{
-		"Name": "Facultad de Ciencias Empresariales",
-		"direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
-		"authority": "",
-		"contact": "facultadce@uteq.edu.ec",
-		"logo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg",
-		"url": "https://www.uteq.edu.ec/6",
-		"lat": -1.0121740313099747,
-		"lng": -79.47007644954464
-	},{
-		"Name": "Facultad de Ciencias Agropecuarias",
+		"Name": "Facultad de Ciencias Pecuarias",
 		"direction": "Campus 'La María', km 7 vía Quevedo-El Empalme",
 		"authority": "Ing. Leonardo Gonzalo Matute, M.Sc.",
 		"contact": "decanato_agropecuarias@uteq.edu.ec",
-		"logo": "https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg",
-		"url": "https://www.uteq.edu.ec/about/4",
-		"lat": -1.0810259049531765,
-		"lng": -79.50200330824408
+		"logo": "https://i.ibb.co/PMVvp9L/FCP.jpg",
+		"lat": -1.0821427,
+		"lng": -79.5015483
 	},{
 		"Name": "Facultad de Ciencias de la Industria y Producción",
 		"direction": "Campus 'La María', km 7 vía Quevedo-El Empalme",
 		"authority": "Ing. Sonnia Esther Barzola Miranda, M.Sc.",
 		"contact": "fcip@uteq.edu.ec",
-		"logo": "https://www.uteq.edu.ec/images/about/logo_fcip.jpg",
-		"url": "https://www.uteq.edu.ec/about/5",
-		"lat": -1.0126243773616503,
-		"lng": -79.47107994830553
+		"logo": "https://i.ibb.co/NCHYGSY/FCIP.png",
+		"lat": -1.012545,
+		"lng": -79.470818
 	},{
-		"isCampus":true,
 		"Name": "Campus Central UTEQ",
 		"direction": "Quevedo - Los Ríos - Ecuador",
 		"authority": "Dr. Eduardo Díaz Ocampo, PhD.",
 		"contact": "(+593) 5 3702-220 Ext. 8052",
-		"logo": "https://uteq.edu.ec/images/noticias/455/portada_455.jpeg",
-		"url": "https://www.uteq.edu.ec/",
-		"lat": -1.01270,
-		"lng": -79.46946
+		"logo": "https://www.grupolarabida.org/wp-content/uploads/2020/10/Ecuador_UniversidadTecnicaEstataldeQuevedo_UTEQ_39_.jpg",
+		"lat": -1.0048548,
+		"lng": -79.4614122
 	},{
-		"isCampus":true,
 		"Name": "Campus 'La María'",
 		"direction": "Quevedo - Los Ríos - Ecuador",
 		"authority": "Dr. Eduardo Díaz Ocampo, PhD",
 		"contact": "(+593) 5 3702-220 Ext. 8052",
-		"logo": "https://www.uteq.edu.ec/images/noticias/465/portada_465.jpeg",
-		"url": "https://www.uteq.edu.ec/read/5/222",
-		"lat": -1.08011,
-		"lng": -79.50144
+		"logo": "https://i.ibb.co/yp4xysf/CM.jpg",
+		"lat": -1.0771868,
+		"lng": -79.5019922
 	}
 ],
   "profile": {
