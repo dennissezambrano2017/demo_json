@@ -85,7 +85,7 @@
 		"direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
 		"authority": "Ing. Mariela Susana Andrade Arias, PhD.",
 		"contact": "facultadce@uteq.edu.ec",
-		"logo": "https://i.ibb.co/FKWBV40/FCE.jpg",
+		"logo": "https://i.ibb.co/FKWBV40/FCE.png",
 		"lat": -1.012183,
 		"lng": -79.470149
 	},
@@ -94,7 +94,7 @@
 		"direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
 		"authority": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
 		"contact": "facultadci@uteq.edu.ec",
-		"logo": "https://i.ibb.co/BcZzynp/FCI.jpg",
+		"logo": "https://i.ibb.co/BcZzynp/FCI.png",
 		"lat": -1.012593,
 		"lng": -79.470398
 	},{
@@ -102,9 +102,9 @@
 		"direction": "Campus 'La María', km 7 vía Quevedo-El Empalme",
 		"authority": "Ing. Leonardo Gonzalo Matute, M.Sc.",
 		"contact": "decanato_agropecuarias@uteq.edu.ec",
-		"logo": "https://i.ibb.co/PMVvp9L/FCP.jpg",
-		"lat": -1.0821427,
-		"lng": -79.5015483
+		"logo": "https://i.ibb.co/PMVvp9L/FCP.png",
+		"lat": -1.080731,
+		"lng": -79.501775
 	},{
 		"Name": "Facultad de Ciencias de la Industria y Producción",
 		"direction": "Campus 'La María', km 7 vía Quevedo-El Empalme",
@@ -119,16 +119,16 @@
 		"authority": "Dr. Eduardo Díaz Ocampo, PhD.",
 		"contact": "(+593) 5 3702-220 Ext. 8052",
 		"logo": "https://www.grupolarabida.org/wp-content/uploads/2020/10/Ecuador_UniversidadTecnicaEstataldeQuevedo_UTEQ_39_.jpg",
-		"lat": 1.0126914,
-		"lng": -79.4716983
+		"lat": -1.012439,
+		"lng": -79.470293
 	},{
 		"Name": "Campus 'La María'",
 		"direction": "Quevedo - Los Ríos - Ecuador",
 		"authority": "Dr. Eduardo Díaz Ocampo, PhD",
 		"contact": "(+593) 5 3702-220 Ext. 8052",
-		"logo": "https://www.pngfind.com/pngs/m/2-27988_imagenes-de-mariposas-png-butterfly-clipart-transparent-png.png",
-		"lat": -1.0771868,
-		"lng": -79.5019922
+		"logo": "https://docplayer.es/docs-images/82/85464958/images/1-2.jpg",
+		"lat": -1.079467,
+		"lng": -79.500503
 	}
 ],
   "profile": {
